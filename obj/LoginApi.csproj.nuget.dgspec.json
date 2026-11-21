@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Danilo Gomez.DESKTOP-SGAFMKM\\Desktop\\Proyecto Orientada Objetos\\LoginAPI\\LoginApi\\LoginApi.csproj": {}
+    "C:\\Users\\Danilo Gomez.DESKTOP-SGAFMKM\\Desktop\\Proyecto Orientada Objetos\\Login\\LoginApi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Danilo Gomez.DESKTOP-SGAFMKM\\Desktop\\Proyecto Orientada Objetos\\LoginAPI\\LoginApi\\LoginApi.csproj": {
+    "C:\\Users\\Danilo Gomez.DESKTOP-SGAFMKM\\Desktop\\Proyecto Orientada Objetos\\Login\\LoginApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Danilo Gomez.DESKTOP-SGAFMKM\\Desktop\\Proyecto Orientada Objetos\\LoginAPI\\LoginApi\\LoginApi.csproj",
+        "projectUniqueName": "C:\\Users\\Danilo Gomez.DESKTOP-SGAFMKM\\Desktop\\Proyecto Orientada Objetos\\Login\\LoginApi.csproj",
         "projectName": "LoginApi",
-        "projectPath": "C:\\Users\\Danilo Gomez.DESKTOP-SGAFMKM\\Desktop\\Proyecto Orientada Objetos\\LoginAPI\\LoginApi\\LoginApi.csproj",
+        "projectPath": "C:\\Users\\Danilo Gomez.DESKTOP-SGAFMKM\\Desktop\\Proyecto Orientada Objetos\\Login\\LoginApi.csproj",
         "packagesPath": "C:\\Users\\Danilo Gomez.DESKTOP-SGAFMKM\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Danilo Gomez.DESKTOP-SGAFMKM\\Desktop\\Proyecto Orientada Objetos\\LoginAPI\\LoginApi\\obj\\",
+        "outputPath": "C:\\Users\\Danilo Gomez.DESKTOP-SGAFMKM\\Desktop\\Proyecto Orientada Objetos\\Login\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
